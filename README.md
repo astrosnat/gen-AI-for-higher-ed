@@ -27,6 +27,7 @@ Comment. Better yet: make a pull request to fix the links!
 - [Computing Education in the Era of Generative AI](https://arxiv.org/abs/2306.02608)
 - [Comparing Code Explanations Created by Students and Large Language Models](https://arxiv.org/abs/2304.03938)
 - [Practical and Ethical Challenges of Large Language Models in Education: A Systematic Scoping Review](https://arxiv.org/abs/2303.13379)
+- [Prompts First, Finally](https://arxiv.org/abs/2407.09231)
 
 ### LLMs for Code Generation
 - [Evaluating Large Language Models Trained On Code](https://arxiv.org/abs/2107.03374)
