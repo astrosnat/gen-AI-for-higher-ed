@@ -29,6 +29,7 @@ Comment. Better yet: make a pull request to fix the links!
 - [Practical and Ethical Challenges of Large Language Models in Education: A Systematic Scoping Review](https://arxiv.org/abs/2303.13379)
 - [Prompts First, Finally](https://arxiv.org/abs/2407.09231)
 - [CourseAssist: Pedagogically Appropriate Question Answering System for Computer Science Education](https://arxiv.org/abs/2407.10246)
+- [Generative AI Can Harm Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
 
 ### LLMs for Code Generation
 - [Evaluating Large Language Models Trained On Code](https://arxiv.org/abs/2107.03374)
