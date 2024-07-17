@@ -44,3 +44,4 @@ Comment. Better yet: make a pull request to fix the links!
 - [Ten Hard Problems in Artificial Intelligence We Must Get Right](https://arxiv.org/abs/2402.04464)
 - [Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](https://arxiv.org/abs/2407.04183)
 - [Unraveling overoptimism and publication bias in ML-driven science](https://arxiv.org/abs/2405.14422)
+- [A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses](https://arxiv.org/abs/2407.02551)
