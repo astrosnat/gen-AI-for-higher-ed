@@ -31,6 +31,7 @@ Comment. Better yet: make a pull request to fix the links!
 - [CourseAssist: Pedagogically Appropriate Question Answering System for Computer Science Education](https://arxiv.org/abs/2407.10246)
 - [Generative AI Can Harm Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
 - [Generative AI in Higher Education: Seeing ChatGPT Through Universities' Policies, Resources, and Guidelines](https://arxiv.org/abs/2312.05235)
+- [Leveraging Large Language Models for Actionable Course Evaluation Student Feedback to Lecturers](https://arxiv.org/abs/2407.01274)
 
 ### LLMs for Code Generation
 - [Evaluating Large Language Models Trained On Code](https://arxiv.org/abs/2107.03374)
