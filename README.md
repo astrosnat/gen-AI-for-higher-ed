@@ -49,3 +49,4 @@ Comment. Better yet: make a pull request to fix the links!
 - [A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses](https://arxiv.org/abs/2407.02551)
 - [On the Worst Prompt Performance of Large Language Models](https://arxiv.org/abs/2406.10248)
 - [AI AI Bias: Large Language Models Favor Their Own Generated Content](https://arxiv.org/abs/2407.12856)
+- [Using Artificial Intelligence to Accelerate Collective Intelligence: Policy Synth and Smarter Crowdsourcing](https://arxiv.org/abs/2407.13960)
