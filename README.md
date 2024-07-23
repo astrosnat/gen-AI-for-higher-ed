@@ -50,3 +50,4 @@ Comment. Better yet: make a pull request to fix the links!
 - [On the Worst Prompt Performance of Large Language Models](https://arxiv.org/abs/2406.10248)
 - [AI AI Bias: Large Language Models Favor Their Own Generated Content](https://arxiv.org/abs/2407.12856)
 - [Using Artificial Intelligence to Accelerate Collective Intelligence: Policy Synth and Smarter Crowdsourcing](https://arxiv.org/abs/2407.13960)
+- [LLMs left, right, and center: Assessing GPT's capabilities to label political bias from web domains](https://arxiv.org/abs/2407.14344)
