@@ -32,6 +32,7 @@ Comment. Better yet: make a pull request to fix the links!
 - [Generative AI Can Harm Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)
 - [Generative AI in Higher Education: Seeing ChatGPT Through Universities' Policies, Resources, and Guidelines](https://arxiv.org/abs/2312.05235)
 - [Leveraging Large Language Models for Actionable Course Evaluation Student Feedback to Lecturers](https://arxiv.org/abs/2407.01274)
+- [Exploring Generative AI Policies in Higher Education: A Comparative Perspective from China, Japan, Mongolia, and the USA](https://arxiv.org/abs/2407.08986)
 
 ### LLMs for Code Generation
 - [Evaluating Large Language Models Trained On Code](https://arxiv.org/abs/2107.03374)
