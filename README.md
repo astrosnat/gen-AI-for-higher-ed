@@ -52,3 +52,4 @@ Comment. Better yet: make a pull request to fix the links!
 - [AI AI Bias: Large Language Models Favor Their Own Generated Content](https://arxiv.org/abs/2407.12856)
 - [Using Artificial Intelligence to Accelerate Collective Intelligence: Policy Synth and Smarter Crowdsourcing](https://arxiv.org/abs/2407.13960)
 - [LLMs left, right, and center: Assessing GPT's capabilities to label political bias from web domains](https://arxiv.org/abs/2407.14344)
+- [Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges](https://arxiv.org/abs/2408.08946)
