@@ -54,3 +54,4 @@ Comment. Better yet: make a pull request to fix the links!
 - [LLMs left, right, and center: Assessing GPT's capabilities to label political bias from web domains](https://arxiv.org/abs/2407.14344)
 - [Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges](https://arxiv.org/abs/2408.08946)
 - [Watching the Generative AI Hype Bubble Deflect](https://arxiv.org/abs/2408.08778)
+- [Techniques for supercharging academic writing with generative AI](https://arxiv.org/abs/2310.17143)
